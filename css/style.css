@@ -1,4 +1,51 @@
 
+<<<<<<< HEAD
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+=======
+/* Código base: Estilos para celulares (pantallas pequeñas) */
+>>>>>>> 5522f4d (ediciontony)
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 8%;
+    background: #111;
+}
+
+.nav-logo a {
+    color: white;
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.nav-logo span {
+    color: #00c3ff;
+}
+
+.nav-links {
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+}
+
+<<<<<<< HEAD
+=======
+
 * {
     margin: 0;
     padding: 0;
@@ -39,6 +86,7 @@ body {
     text-decoration: none;
 }
 
+>>>>>>> 5522f4d (ediciontony)
 .btn-cta,
 .btn-main {
     background: #00c3ff;
@@ -141,6 +189,10 @@ body {
     }
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5522f4d (ediciontony)
 /* Variables de color */
 :root {
     --primario: #080f1a;
