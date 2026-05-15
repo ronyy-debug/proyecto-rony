@@ -143,10 +143,10 @@ body {
 
 /* Variables de color */
 :root {
-    --primario: #0a192f;
+    --primario: #080f1a;
     --secundario: #64ffda;
-    --gris-oscuro: #112240;
-    --blanco: #e6f1ff;
+    --gris-oscuro: #0c1016;
+    --blanco: #2682fa;
 }
 
 * {
@@ -379,7 +379,7 @@ body {
     justify-content: center;
     gap: 30px;
     font-size: 0.9rem;
-    color: #a8b2d1;
+    color: #2c5df0;
     flex-wrap: wrap;
 }
 
